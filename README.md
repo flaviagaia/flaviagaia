@@ -1,8 +1,8 @@
 ## Olá! eu sou a Flávia Gaia, estudante de Ciência de Dados e Inteligência Artificial!
 <div align="center">
   <a href="https://linktr.ee/FlaviaGaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,6 +21,6 @@
   </a> 
   
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/flaviagaia/flaviagaia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
