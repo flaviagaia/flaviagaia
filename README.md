@@ -1,4 +1,4 @@
-## Olá! eu sou a Flávia Gaia, estudante de Ciência de Dados e Inteligência Artificial!
+## Olá eu sou a Flávia Gaia, estudante de Ciência de Dados e Inteligência Artificial!
 <div align="center">
   <a href="https://linktr.ee/FlaviaGaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -17,9 +17,7 @@
 <div> 
  <a href = "https://www.kaggle.com/flaviagg" target="_blank"><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a> 
  <a href = "https://www.linkedin.com/in/Flávia-Gaia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:flaviaggpaula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- </a> 
-  
+ <a href = "mailto:flaviaggpaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/flaviagaia/flaviagaia/blob/output/github-contribution-grid-snake.svg)
  
