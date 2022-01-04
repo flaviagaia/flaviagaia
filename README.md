@@ -16,9 +16,9 @@
  
 <div> 
  <a href = "https://www.kaggle.com/flaviagg" target="_blank"><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a> 
- <a href = "mailto:flaviaggpaula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href = "https://www.linkedin.com/in/Flávia-Gaia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a> 
+ <a href = "mailto:flaviaggpaula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ </a> 
   
   
   ![Snake animation](https://github.com/flaviagaia/flaviagaia/blob/output/github-contribution-grid-snake.svg)
