@@ -22,7 +22,7 @@
   <!--
   ![Snake animation](https://github.com/flaviagaia/flaviagaia/blob/main/.github/workflows/cobrinha.yml)
    -->
-  ![Snake animation](https://github.com/camilahl/camilahl/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/flaviagaia/flaviagaia/blob/output/github-contribution-grid-snake.svg)
    
   </div>
   
