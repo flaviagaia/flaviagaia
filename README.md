@@ -16,6 +16,6 @@
  
 <div> 
  <a href = "https://www.kaggle.com/flaviagg" target="_blank"><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a> 
- <a href = "https://www.linkedin.com/in/Flávia-Gaia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "https://www.linkedin.com/in/flavia-gaia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:flaviaggpaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
