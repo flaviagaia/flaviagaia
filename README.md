@@ -1,21 +1,12 @@
-## Hi, I´m Flávia 
+## Hi, I´m Flávia
 
 <p>A Data Scientist focused on developing AI solutions from Brazil 🇧🇷</p>
 
-<div align="center">
+<p align="center">
   <a href="https://linktr.ee/FlaviaGaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Flavia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flavia-Tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Flavia-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Flavia-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Flavia-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-  
-  ##
+    <img src="https://raw.githubusercontent.com/flaviagaia/flaviagaia/main/banner.png" alt="Flavia Gaia" width="700"/>
+  </a>
+</p>
  
 <div> 
  <a href = "https://www.kaggle.com/flaviagg" target="_blank"><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a> 
