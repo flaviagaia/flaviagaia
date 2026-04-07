@@ -62,9 +62,11 @@
 
 <div align="center">
 
-![Flávia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=default&hide_border=true)
+![Flávia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=flaviagaia&theme=dark&hide_border=true)
 
 </div>
 
