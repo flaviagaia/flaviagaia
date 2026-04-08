@@ -1,4 +1,3 @@
-<!-- Bilingual Header -->
 <div align="center">
 
 # Hi, I'm Flávia Gaia 👋
@@ -9,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/flaviagaia)
 [![GitHub followers](https://img.shields.io/github/followers/flaviagaia?label=Follow&style=flat)](https://github.com/flaviagaia)
 [![Website](https://img.shields.io/badge/Website-flaviaga.ia.br-informational?style=flat&logo=google-chrome&logoColor=white)](https://flaviaga.ia.br/)
+[![Profile views](https://komarev.com/ghpvc/?username=flaviagaia&color=blue&style=flat&label=Profile+views)](https://github.com/flaviagaia)
 
 </div>
 
@@ -59,15 +59,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=flaviagaia&color=blue&style=flat)
-
-| Stats | Top Languages |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=86400) |
+![Commits](https://img.shields.io/badge/Commits%20this%20year-133-brightgreen?style=flat&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-30-blue?style=flat&logo=github)
+![Focus](https://img.shields.io/badge/Main%20language-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-AI%20%26%20ML-orange?style=flat&logo=tensorflow&logoColor=white)
 
 </div>
 
