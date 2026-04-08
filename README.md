@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/flaviagaia)
 [![GitHub followers](https://img.shields.io/github/followers/flaviagaia?label=Follow&style=flat)](https://github.com/flaviagaia)
+[![Website](https://img.shields.io/badge/Website-flaviaga.ia.br-informational?style=flat&logo=google-chrome&logoColor=white)](https://flaviaga.ia.br/)
 
 </div>
 
@@ -24,7 +25,7 @@
 - 💬 **EN:** Ask me about Python, Machine Learning, Data Engineering and AI.
 - 💬 **PT:** Me pergunte sobre Python, Machine Learning, Engenharia de Dados e IA.
 
-- 📫 **Reach me / Me encontre:** [LinkedIn](https://linkedin.com/in/flaviagaia)
+- 📫 **Reach me / Me encontre:** [LinkedIn](https://linkedin.com/in/flaviagaia) · [flaviaga.ia.br](https://flaviaga.ia.br/)
 
 ---
 
@@ -62,11 +63,11 @@
 
 <div align="center">
 
-![Flávia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Profile views](https://komarev.com/ghpvc/?username=flaviagaia&color=blue&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=flaviagaia&theme=dark&hide_border=true)
+| Stats | Top Languages |
+|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=flaviagaia&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviagaia&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=86400) |
 
 </div>
 
